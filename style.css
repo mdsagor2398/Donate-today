@@ -1,0 +1,237 @@
+.donate {
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+}
+
+.header-1 {
+    font-size: 50px;
+    color: white;
+
+}
+
+.header-2 {
+    font-size: 50px;
+    color: white;
+}
+
+.paragrap-1 {
+    font-size: 22px;
+    color: white;
+}
+
+.paragrap-2 {
+    font-size: 22px;
+    color: white;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    border: solid yellow 3px;
+    padding: 15px 25px;
+    background-color: yellow;
+    border-radius: 10px;
+    color: white;
+}
+
+.today {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 265px;
+}
+
+.section {
+    background-image: url(donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.paragrap-donte-1 {
+    text-align: center;
+    color: rgb(119, 119, 119);
+    font-size: 20px;
+}
+
+.amaound {
+    display: flex;
+    font-size: 20px;
+    color: rgb(119, 119, 119);
+}
+
+.fast {
+    margin-left: 330px;
+    color: rgb(119, 119, 119);
+    box-shadow: 10px 20px 30px slategrey;
+    padding: 43px 47px;
+    border-radius: 7px;
+}
+
+.sceond {
+    margin-left: 100px;
+    color: rgb(119, 119, 119);
+    box-shadow: 10px 20px 30px slategrey;
+    padding: 43px 47px;
+    border-radius: 7px;
+}
+
+.thard {
+    margin-left: 100px;
+    color: rgb(119, 119, 119);
+    box-shadow: 10px 20px 30px slategrey;
+    padding: 43px 47px;
+    border-radius: 7px;
+}
+
+.foure {
+    margin-left: 100px;
+    color: rgb(119, 119, 119);
+    box-shadow: 10px 20px 30px slategrey;
+    padding: 43px 47px;
+    border-radius: 7px;
+}
+
+.five {
+    margin-left: 100px;
+    color: rgb(119, 119, 119);
+    box-shadow: 10px 20px 30px slategrey;
+    padding: 43px 47px;
+    border-radius: 7px;
+}
+
+.input {
+    margin-left: 860px;
+    margin-top: 100px;
+}
+
+.input {}
+
+.link-2 {
+    text-decoration: none;
+    font-size: 20px;
+    border: solid rgb(226, 28, 150) 3px;
+    padding: 15px 25px;
+    background-color: rgb(226, 44, 104);
+    border-radius: 10px;
+    color: white;
+    margin-left: 870px;
+
+}
+
+.donate-plan {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 140px;
+
+}
+
+.plan {
+    text-align: center;
+    font-size: 20px;
+}
+
+.flex {
+    display: flex;
+    margin-top: 150px;
+}
+
+.div-food {
+    background-color: rgb(68, 150, 150);
+    padding: 60px 50px;
+    margin-left: 100px;
+}
+
+.div-family {
+    background-color: rgb(247, 100, 100);
+    padding: 60px 50px;
+    margin-left: 20px;
+}
+
+.div-study {
+    background-color: rgb(255, 253, 106);
+    padding: 60px 50px;
+    margin-left: 20px;
+}
+
+.food {
+    font-size: 40px;
+}
+
+.learn {
+    font-size: 60px;
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+
+.three-div {
+    display: flex;
+
+}
+
+.group-road {
+    width: 100%;
+    margin-left: 200px;
+    margin-right: 53px;
+    box-shadow: 10px 20px 20px grey;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.road-chaild {
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 72px;
+    box-shadow: 10px 20px 20px grey;
+    padding: 20px 30px;
+    border-radius: 10px;
+
+}
+
+.rohim {
+    width: 100%;
+    box-shadow: 10px 20px 20px grey;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.my-updates {
+    text-align: center;
+    margin-top: 170px;
+}
+
+.get {
+    font-size: 60px;
+}
+
+.email {
+    margin-left: 820px;
+    margin-top: 70px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.bc-email {
+    background-image: url(assainment\ bc\ pic.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 70px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 60px;
+    background-image: url(pink-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.orenge {
+    color: tomato;
+}
+
+.small {
+    color: rgb(243, 234, 234);
+    margin-bottom: 50px;
+}
